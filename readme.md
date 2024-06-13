@@ -4,11 +4,11 @@ Nexus is the next generation market that you can trust. Our market was launched 
 ## Nexus Market Link:
 
 ```sh
-http://nexusaxdv7owwfslpqbav5yaj5djg7akwtfngrv3ft3j56cguzwvbiqd.onion
+http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion
 ```
-[<img src="/assets/visit-market.webp" width="200">](http://nexusaxdv7owwfslpqbav5yaj5djg7akwtfngrv3ft3j56cguzwvbiqd.onion/)
+[<img src="/assets/visit-market.webp" width="200">](http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion/)
 
-<a href="http://nexusaxdv7owwfslpqbav5yaj5djg7akwtfngrv3ft3j56cguzwvbiqd.onion"><img src="/assets/nexus-preview.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion"><img src="/assets/nexus-preview.webp" alt="image" style="max-width: 100%;"><a>
 
 This is a strictly scientific and educational repository, the purpose of which is to give an idea of the world of the darkweb. We do not collect any commissions/kickbacks from market affiliate links. We are not affiliated with any legal entity and do not support illegal activities.
 
@@ -20,4 +20,4 @@ Nexus is a word that means a connection, link, core or centre. It seems that the
 If you're new to the site, the first thing you need to do is create an account. It's really quick and easy, and you just need to provide a username, PIN (at least 6 digits) and a password. You don't need to provide any personal details, like your email address, as per the Darknet standard.
 Next, you'll get a mnemonic code in case you ever forget your password. Just make sure you copy and save the mnemonic, because that's the only way you can restore your account. Once you've done that, you can log in with your new account.
 
-<a href="http://nexusaxdv7owwfslpqbav5yaj5djg7akwtfngrv3ft3j56cguzwvbiqd.onion"><img src="/assets/nexus-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://nexusaxdv7owwfslpqbav5yaj5djg7akwtfngrv3ft3j56cguzwvbiqd.onion"><img src="/assets/nexus-register.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion"><img src="/assets/nexus-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://nexusabpootvmnyivjxkky5fix4jzwekq2a2t43sslmgh3qa4by6cvid.onion"><img src="/assets/nexus-register.webp" alt="image" style="max-width: 100%;"><a>
